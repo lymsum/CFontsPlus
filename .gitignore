@@ -1,4 +1,5 @@
 # Dependency directories
+.gitignore
 node_modules/
 jspm_packages/
 web_modules/
@@ -24,3 +25,4 @@ env.*
 # Build output
 dist/
 build/
+output/
